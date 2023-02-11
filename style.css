@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #EAEAEA;
+}
+
+main{
+    padding: 10%;
+    background-color: #FFFFFF;
+}
+
+.foto img {
+    width: 300px;
+}
+
+
+footer a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
